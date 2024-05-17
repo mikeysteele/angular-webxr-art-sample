@@ -10,7 +10,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Pre-requisites
 
 1. Node.js and npm
-  * Download and install Go: https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
+  * Download and install node.js: https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
 2. Gemini API key
   * Launch Google AI Studio: https://aistudio.google.com/
   * Click “Get API Key”
